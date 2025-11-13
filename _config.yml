@@ -30,8 +30,9 @@ lang: it
 
 # Build settings
 #theme: jekyll-theme-so-simple
-remote_theme: "mmistakes/so-simple-theme"
-skin: "/assets/css/skins/dark.css"
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
+skin: "https://github.com/mmistakes/so-simple-theme/blob/0128355ab62c20740a17775ee1df5382db472cb3/assets/css/skins/dark.scss"
+#skin: "/assets/css/skins/dark.css"
 markdown: kramdown
 
 search_full_content: true
