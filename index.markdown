@@ -11,4 +11,6 @@ In questo sito potete trovare tutte le informazioni utili per fruire dei servizi
 
 Utilizzate il menu per navigare nelle sezioni del sito.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ct1yGvRJhzc?si=Flz2WXkJqeDHp-pF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 **ULTIME NOTIZE**
