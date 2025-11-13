@@ -12,7 +12,7 @@ In questo sito potete trovare tutte le informazioni utili per fruire dei servizi
 Utilizzate il menu per navigare nelle sezioni del sito.
 
 <div style="text-align:center;">
-<iframe width="100%" src="https://www.youtube.com/embed/Ct1yGvRJhzc?si=Flz2WXkJqeDHp-pF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/Ct1yGvRJhzc?si=Flz2WXkJqeDHp-pF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>  
 
 **ULTIME NOTIZE**
