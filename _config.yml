@@ -22,7 +22,7 @@ title: Coworking di Inverso Pinasca
 email: coworking@comune.inversopinasca.to.it
 description: >- # this means to ignore newlines until "baseurl:"
   Ex-scuola elementare della borgata Clot, rifunzionalizzata in struttura di co-working con il contributo del GAL-EVV
-baseurl: "coworkinginverso" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  coworkinginverso
@@ -31,8 +31,8 @@ lang: it
 # Build settings
 #theme: jekyll-theme-so-simple
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
-#skin: "https://github.com/mmistakes/so-simple-theme/blob/0128355ab62c20740a17775ee1df5382db472cb3/assets/css/skins/dark.scss"
-skin: "/assets/css/skins/dark.css"
+skin: "https://raw.githubusercontent.com/mmistakes/so-simple-theme/refs/heads/master/assets/css/skins/dark.scss"
+#skin: "/assets/css/skins/dark.css"
 markdown: kramdown
 
 search_full_content: true
