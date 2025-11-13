@@ -54,6 +54,9 @@ footer_links:
  - title: Telefono
    url: tel:0121800706
    icon: fas fa-phone
+ - title: Feed RSS
+   url: feed.xml
+   icon: fas fa-rss
 
 # Exclude from processing.
 # The following items will not be processed, by default.
