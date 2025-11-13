@@ -1,6 +1,5 @@
 ---
 title: "Gli ambienti"
-layout
 ---
 Gli ambienti dell'ex scuola sono stati completamente ristrutturati e dotati di tutti i comfort per svolgere al meglio le vostre attività.
 
