@@ -29,5 +29,4 @@ _______________________
 
 Costo stampe formato A4 monocromatico: € 0,10 a pagina  
 
-[^1]:
-  Lo status di studente deve essere verificato mediante presentazione di libretto universitario o altra documentazione utile, i minorenni devono presentare un documento di assunzione di responsabilità sottoscritto da un genitore.
+[^1]: Lo status di studente deve essere verificato mediante presentazione di libretto universitario o altra documentazione utile, i minorenni devono presentare un documento di assunzione di responsabilità sottoscritto da un genitore.
