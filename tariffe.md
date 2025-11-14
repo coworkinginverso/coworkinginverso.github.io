@@ -1,6 +1,7 @@
 ---
 title: "Tariffe di utilizzo"
 ---
+{:style="text-align:center;"}
 Queste sono le tariffe di utilizzo dei servizi del coworking.
 
 **Gli studenti universitari e delle scuole secondarie di secondo grado[^1] possono utilizzare gratuitamente le postazioni nelle sale condivise non occupate da utenti paganti.**
