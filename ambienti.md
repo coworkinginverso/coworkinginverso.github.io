@@ -20,7 +20,7 @@ Al primo piano sono stati ricavati tre uffici ad uso singolo, ideali per profess
 Al primo piano è presente una sala conferenze allestita con un tavolo per otto persone e un doppio sistema di proiezione. Questo spazio è l'ideale per riunioni di team, presentazioni a piccoli gruppi, o per tenere corsi di aggiornamento.
 
 {:style="text-align:center;"}
-[![Refettorio](img/refet_th.jpg "Refettorio")](/img/refet.jpg) [![Locale di sgombero](img/sgomb_th.jpg "Locale di sgombero")](/img/sgomb.jpg)  
+[![Refettorio](img/refet_th.jpg "Refettorio")](/img/refet.jpg) [![Ex palestra](img/sgomb_th.jpg "Ex palestra")](/img/sgomb.jpg)  
 
 Nel seminterrato sono presenti altri ambienti, pensati come spazio condiviso per preparare e consumare spazi o per altri utilizzi che la vostra fantasia vorrà proporci!
 
