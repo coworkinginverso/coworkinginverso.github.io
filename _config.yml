@@ -43,7 +43,7 @@ date_format: "%d/%m/%Y"
 
 plugins:
   - jekyll-feed
-  - jekill-sitemap
+  - jekyll-sitemap
 defaults:
  -
   values:
