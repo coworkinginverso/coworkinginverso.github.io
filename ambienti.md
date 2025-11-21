@@ -22,7 +22,7 @@ Al primo piano è presente una sala conferenze allestita con un tavolo per otto 
 {:style="text-align:center;"}
 [![Refettorio](img/refet_th.jpg "Refettorio")](/img/refet.jpg) [![Ex palestra](img/sgomb_th.jpg "Ex palestra")](/img/sgomb.jpg)  
 
-Nel seminterrato sono presenti altri ambienti, pensati come spazio condiviso per preparare e consumare spazi o per altri utilizzi che la vostra fantasia vorrà proporci!
+Nel seminterrato sono presenti altri ambienti, pensati come spazio condiviso per preparare e consumare pasti o per altri utilizzi che la vostra fantasia vorrà proporci!
 
 **PLANIMETRIE**
 
