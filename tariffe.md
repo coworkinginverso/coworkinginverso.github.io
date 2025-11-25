@@ -1,6 +1,8 @@
 ---
 title: "Tariffe di utilizzo"
 ---
+**LE TARIFFE SONO IN FASE DI RIDEFINIZIONE, VI INVITIAMO A CONSULTARE LA PAGINA NUOVAMENTE NEI PROSSIMI GIORNI.**
+
 {:style="text-align:center;"}
 Queste sono le tariffe di utilizzo dei servizi del coworking.
 
