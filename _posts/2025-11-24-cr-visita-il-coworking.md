@@ -8,4 +8,4 @@ La delegazione ha dimostrato un vivo interesse verso la nostra iniziativa, espri
   
 A noi non resta che ringraziare il Presidente Nicco, il consigliere Bordese e tutti gli ospiti per il supporto e la motivazione che ci hanno trasmesso.
 
-![Nicco e Bordese col personale del comune](img/post/20251124.jpg "Nicco e Bordese col personale del comune")
+![Nicco e Bordese col personale del comune](/img/post/20251124.jpg "Nicco e Bordese col personale del comune")
