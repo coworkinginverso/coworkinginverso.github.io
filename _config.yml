@@ -55,6 +55,9 @@ footer_links:
  - title: Telefono
    url: tel:0121800706
    icon: fas fa-phone
+ - title: Instagram
+   url: https://www.instagram.com/coworking_inverso/
+   icon: fab fa-instagram
  - title: Feed RSS
    url: feed.xml
    icon: fas fa-rss
