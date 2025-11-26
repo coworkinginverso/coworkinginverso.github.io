@@ -56,7 +56,8 @@ footer_links:
    url: tel:0121800706
    icon: fas fa-phone
  - title: Posizione
-   url: https://www.google.com/maps/place/Coworking+di+Inverso+Pinasca/@44.9448427,7.2153116,17z/data=!4m12!1m5!8m4!1e4!2s106755917159292154136!3m1!1e1!3m5!1s0x478833005e869fb9:0x5f146be7fe8eafa4!8m2!3d44.9425911!4d7.2173541!16s%2Fg%2F11mrlq5dg6?entry=ttu&g_ep=EgoyMDI1MTEyMy4xIKXMDSoASAFQAw%3D%3D   icon: fas fa-map-marker-alt
+   url: https://www.google.com/maps/place/Coworking+di+Inverso+Pinasca/@44.9448427,7.2153116,17z/data=!4m12!1m5!8m4!1e4!2s106755917159292154136!3m1!1e1!3m5!1s0x478833005e869fb9:0x5f146be7fe8eafa4!8m2!3d44.9425911!4d7.2173541!16s%2Fg%2F11mrlq5dg6?entry=ttu&g_ep=EgoyMDI1MTEyMy4xIKXMDSoASAFQAw%3D%3D   
+   icon: fas fa-map-marker-alt
  - title: Instagram
    url: https://www.instagram.com/coworking_inverso/
    icon: fab fa-instagram
