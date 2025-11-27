@@ -1,7 +1,7 @@
 ---
 title: "Tariffe di utilizzo"
 ---
-**LE TARIFFE SONO IN FASE DI RIDEFINIZIONE, VI INVITIAMO A CONSULTARE LA PAGINA NUOVAMENTE NEI PROSSIMI GIORNI.**
+**NUOVE TARIFFE IN VIGORE DAL 27 NOVEMBRE 2025**
 
 {:style="text-align:center;"}
 Queste sono le tariffe di utilizzo dei servizi del coworking.
@@ -10,23 +10,23 @@ Queste sono le tariffe di utilizzo dei servizi del coworking.
 
 {:style="text-align:center;"}
 **POSTAZIONE IN SALA COWORKING**  
-Giornata € 20,00  
-Pacchetto 10 giorni non consecutivi (valido 90 giorni) € 150,00  
-Settimana (lunedì-venerdì) € 80,00  
-Mensilità (mese di calendario) € 200,00  
+Giornata € 12,00  
+Pacchetto 10 giorni non consecutivi (valido 90 giorni) € 100,00  
+Settimana (lunedì-venerdì) € 50,00  
+Mensilità (mese di calendario) € 120,00  
 
 {:style="text-align:center;"}
 **UFFICIO SINGOLO**  
-Giornata € 60,00  
-Pacchetto 10 giorni non consecutivi (valido 90 giorni) € 500,00  
-Settimana (lunedì-venerdì) € 250,00  
-Mensilità (mese di calendario) € 800,00  
+Giornata € 40,00  
+Pacchetto 10 giorni non consecutivi (valido 90 giorni) € 300,00  
+Settimana (lunedì-venerdì) € 150,00  
+Mensilità (mese di calendario) € 500,00  
   
 {:style="text-align:center;"}
 **SALA RIUNIONI**  
-Utilizzo orario € 25,00/ora  
-Pacchetto 4 ore consecutive nella giornata (entro le ore 24) € 50,00  
-Giornata intera (0-24) €100,00  
+Utilizzo orario € 15,00/ora  
+Pacchetto 4 ore consecutive nella giornata (entro le ore 24) € 30,00  
+Giornata intera (0-24) € 60,00  
 Importi scontati del 10% per gli utenti di uffici singoli o postazioni con contratto settimanale o mensile (nel periodo di validità del contratto)  
 
 
