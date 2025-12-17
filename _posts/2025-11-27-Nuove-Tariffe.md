@@ -1,6 +1,7 @@
 ---
 Title: "Nuove tariffe"
 Date: 2025-11-27
+Layout: post
 ---
 A partire da oggi sono in vigore le nuove tariffe di utilizzo del co-working.  
 
