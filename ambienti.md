@@ -4,7 +4,7 @@ title: "Gli ambienti"
 Gli ambienti dell'ex scuola sono stati completamente ristrutturati e dotati di tutti i comfort per svolgere al meglio le vostre attività.
 
 {:style="text-align:center;"}
-[![Reception](img/reception_th.jpg "Reception")](/img/creception.jpg) [![Sala coworking 1](img/cow_ros_th.jpg "Sala cowoking 1")](/img/cow_ros.jpg) [![Sala coworking 2](img/cow_azz_th.jpg "Sala coworking 2")](/img/cow_azz.jpg)  
+[![Reception](img/reception_th.jpg "Reception")](/img/reception.jpg) [![Sala coworking 1](img/cow_ros_th.jpg "Sala cowoking 1")](/img/cow_ros.jpg) [![Sala coworking 2](img/cow_azz_th.jpg "Sala coworking 2")](/img/cow_azz.jpg)  
 
 Al piano rialzato sono presenti due sale condivise con 10 postazioni di lavoro complessive.
 Tutti i locali del piano rialzato sono accessibili anche ai disabili motori.
