@@ -1,6 +1,5 @@
 ---
 title: Credits
-#test di VSCodium
 ---
 {:style="text-align:center;"}
 ![Regione Piemonte](img/gal/regione.png) ![Leader](img/gal/leader.png) ![EU](img/gal/eu.png) ![Repubblica Italiana](img/gal/repita.png) ![PSR](img/gal/psr.png)  
